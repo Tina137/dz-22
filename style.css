@@ -1,0 +1,11 @@
+.img-1 {
+  width: 100vw;
+  position: absolute;
+}
+span {
+  font-size: 360px;
+  position: relative;
+  top: 80vh;
+  left: 40vw;
+  opacity: 0.4;
+}
